@@ -16,6 +16,7 @@ img {
 .fruits {
   display: flex;
   justify-content: center;
+  gap: 52px;
 }
 /* do not edit this footer */
 .footer {
