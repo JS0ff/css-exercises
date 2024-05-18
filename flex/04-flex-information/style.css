@@ -20,11 +20,9 @@ img {
   gap: 52px;
 }
 .fruit {
-  width: 200px;
+  max-width: 200px;
 }
-.text {
-  flex-wrap: wrap;
-}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
