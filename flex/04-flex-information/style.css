@@ -18,6 +18,13 @@ img {
   justify-content: center;
   gap: 52px;
 }
+.fruit {
+  width: 200px;
+}
+.text {
+  flex-wrap: wrap;
+  text-align: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
