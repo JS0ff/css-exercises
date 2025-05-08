@@ -31,8 +31,7 @@
 }
 .menu ul{
   display: grid;
-  align-items: center;
-  justify-content: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .sidebar {
@@ -66,6 +65,7 @@
 
 .nav ul{
   display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .nav ul li {
