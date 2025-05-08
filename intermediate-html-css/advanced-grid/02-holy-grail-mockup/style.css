@@ -36,9 +36,11 @@
 }
 
 .sidebar {
+  display: grid;
   background-color: #C50208;
   gap: 50px;
   grid-column: 1/2;
+  grid-row: 2/4;
 }
 
 .sidebar .photo {
