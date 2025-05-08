@@ -21,7 +21,6 @@
 .header {
   background-color: #393f4d;
   display: grid;
-  grid-template-columns: 1fr 1fr;
   grid-column: 1/3;
 }
 
@@ -118,4 +117,9 @@
 .footer p {
   font-size: 13px;
   font-weight: normal;
+}
+
+.logo{
+  display: grid;
+  justify-content: flex-start;
 }
